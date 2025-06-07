@@ -149,7 +149,6 @@ Consider improvements or alternative approaches for future iterations.
 ### What lessons did you learn? 
 Summarize the key takeaways and knowledge gained from this experience.
 ```markdown
-I would not limit myself by trying to emulate the official template and probably would try to find an alterntive.
 ```
 
 <!-- ## Metrics 
